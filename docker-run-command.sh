@@ -1,5 +1,5 @@
 #!/bin/bash
-# docker-shop.sh
+# docker-run-command.sh
 
 if [[ $# != 2 ]] ; then
     echo 'Example usage: '
